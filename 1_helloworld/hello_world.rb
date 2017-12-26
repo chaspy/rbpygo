@@ -1,2 +1,7 @@
 #!/usr/bin/ruby
-print 'hello world'
+
+class Hello_world
+  def self.greeting
+    'hello world'
+  end
+end
